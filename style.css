@@ -1,0 +1,128 @@
+.response{
+
+    border: black solid 2px;
+    border-radius:5;
+    display:block;
+    text-align:center;
+    margin:10px;
+    padding-left:5px;
+    padding-right:5px;
+    background-color:#acd1e9;
+
+}
+
+.title{
+    width:70%;
+    border-radius:30;
+    border: black solid 1px;
+    text-align:center;
+    background-color:#E0E4CC;
+    margin-left:15%;
+    margin-top:1em;
+    margin-bottom:1em;
+    font-size:1em;
+}
+
+#round{
+    border: black solid 2px;
+    border-radius:10;
+    display:inline-block;
+    text-align:center;
+    margin:10px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+
+.hidden{
+    display:none;
+    opacity:0;
+}
+
+body{
+    background-color:#c1dad6;
+}
+
+
+#submit{
+    border: black solid 2px;
+    border-radius:30;
+    display:inline-block;
+    text-align:center;
+    margin:10px;
+    background-color:#c1dad6;
+    padding-left:5px;
+    padding-right:5px;
+    cursor:pointer;
+}
+
+
+
+#header{
+    border: black solid 2px;
+    border-radius:10;
+    display:block;
+    text-align:center;
+    margin:10px;
+    background-color:#acd1e9;
+}
+
+#footer{
+    border: black solid 2px;
+    margin:10px;
+    border-radius:5;
+    display:block;
+    background-color: #acd1e9;
+    text-align:center;
+}
+#left{
+
+    border:black solid 2px;
+    width:15%;
+    border-radius:10;
+    display:inline-block;
+    background-color:#acd1e9;
+    content:center;
+    margin:10px;
+
+}
+#right{
+
+    border:black solid 2px;
+    width:75%;
+    border-radius:10;
+    display:inline-block;
+    margin:10px;
+    vertical-align:80px;
+    background-color:#acd1e9;
+}
+
+
+.button{
+    width:70%;
+    border-radius:30;
+    border: black solid 1px;
+    opacity:0.5;
+    text-align:center;
+    background-color:#E0E4CC;
+    margin:15%;
+    font-size:2em;
+    cursor: pointer;
+
+}
+.number{
+
+    border-radius:30;
+    border: black solid 1px;
+    display:inline-block;
+    width:11%;
+    margin:1%;
+    background-color:#E0E4CC;
+    text-align:center;
+    font-size:3em;
+}
+#answer{
+    text-align:center;
+    display:inline-block;
+    margin-left:10px;
+}

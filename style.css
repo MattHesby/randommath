@@ -2,6 +2,7 @@
 
     border: black solid 2px;
     border-radius:5;
+    -webkit-border-radius:5;
     display:block;
     text-align:center;
     margin:10px;
@@ -13,7 +14,7 @@
 
 .title{
     width:70%;
-    border-radius:30;
+    -webkit-border-radius:30;
     border: black solid 1px;
     text-align:center;
     background-color:#E0E4CC;
@@ -25,7 +26,7 @@
 
 #round{
     border: black solid 2px;
-    border-radius:10;
+    -webkit-border-radius:10;
     display:inline-block;
     text-align:center;
     margin:10px;
@@ -46,7 +47,7 @@ body{
 
 #submit{
     border: black solid 2px;
-    border-radius:30;
+    -webkit-border-radius:30;
     display:inline-block;
     text-align:center;
     margin:10px;
@@ -60,7 +61,7 @@ body{
 
 #header{
     border: black solid 2px;
-    border-radius:10;
+    -webkit-border-radius:10;
     display:block;
     text-align:center;
     margin:10px;
@@ -70,7 +71,7 @@ body{
 #footer{
     border: black solid 2px;
     margin:10px;
-    border-radius:5;
+    -webkit-border-radius:5;
     display:block;
     background-color: #acd1e9;
     text-align:center;
@@ -79,7 +80,7 @@ body{
 
     border:black solid 2px;
     width:15%;
-    border-radius:10;
+    -webkit-border-radius:10;
     display:inline-block;
     background-color:#acd1e9;
     content:center;
@@ -90,7 +91,7 @@ body{
 
     border:black solid 2px;
     width:75%;
-    border-radius:10;
+    -webkit-border-radius:10;
     display:inline-block;
     margin:10px;
     vertical-align:80px;
@@ -100,7 +101,7 @@ body{
 
 .button{
     width:70%;
-    border-radius:30;
+  -webkit-border-radius:30;
     border: black solid 1px;
     opacity:0.5;
     text-align:center;
@@ -113,7 +114,7 @@ body{
 .number{
 
     border-radius:30;
-    border: black solid 1px;
+    -webkit-border: black solid 1px;
     display:inline-block;
     width:11%;
     margin:1%;

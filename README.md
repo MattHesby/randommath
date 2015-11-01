@@ -1,2 +1,2 @@
-Choose a difficulty
+#Choose a difficulty
 Math problem created randomly
